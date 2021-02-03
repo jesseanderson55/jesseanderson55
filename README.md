@@ -24,9 +24,7 @@ ___________
 ## Education
 <img alt="Western Governors University" src="https://img.shields.io/badge/Western_Governors_University-Alumni_Software_Development-003057?style=for-the-badge&logo=wgu&logoColor=white"/>
 
-<img alt="Unity" src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/>
-<img alt="Udemy" src="https://img.shields.io/badge/Udemy%20-%23EA5252.svg?&style=for-the-badge&logo=Udemy&logoColor=white"/>
-<img alt="LinkedInLearning" src="https://img.shields.io/badge/LinkedIn_Learning-0077B5?style=for-the-badge&logo=linkedinlearning&logoColor=white"/>
+<img alt="Unity" src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/><img alt="Udemy" src="https://img.shields.io/badge/Udemy%20-%23EA5252.svg?&style=for-the-badge&logo=Udemy&logoColor=white"/><img alt="LinkedInLearning" src="https://img.shields.io/badge/LinkedIn_Learning-0077B5?style=for-the-badge&logo=linkedinlearning&logoColor=white"/>
 
 
 ____________
